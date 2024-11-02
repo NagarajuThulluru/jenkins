@@ -7,6 +7,7 @@ public class Class1 {
 		int c=a+b;
 		int d=a-b;
 		System.out.println("addition of a and b values are:"+c);
+		System.out.println("SUBTRACTION of a and b values are:"+D);
 	}
 
 }
